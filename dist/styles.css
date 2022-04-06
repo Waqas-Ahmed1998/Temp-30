@@ -723,11 +723,11 @@ input {
 
 .heading {
   /* font-family: 'Libre Baskerville', serif; */
-  font-family: sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 .call{
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: sans-serif;
 }
 
 .disclaimer {
@@ -751,6 +751,7 @@ font-family: 'Libre Baskerville', serif;
 font-family: 'Lobster', cursive;
 font-family: 'Merriweather', serif;
 font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
 font-family: 'Permanent Marker', cursive;
 font-family: 'Poppins', sans-serif;
 font-family: 'Prompt', sans-serif;
