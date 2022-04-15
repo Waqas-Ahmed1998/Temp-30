@@ -8,17 +8,8 @@
   }
 }
 body {
-  /* font-family: 'Montserrat', sans-serif; */
-font-family: sans-serif;
 
-
-/* font-family: 'Vazirmatn', sans-serif; */
-
-  /* font-family: 'Prompt', sans-serif; */
-  /* font-family: 'Inter', sans-serif; */
-  /* font-family: 'Montserrat', sans-serif; */
-  /* font-family: "popins", sans-serif; */
-  /* font-family: "Tajawal", sans-serif; */
+  font-family: 'Lato', sans-serif;
 
 }
 
@@ -52,6 +43,10 @@ input {
 
 
 }
+.btn {
+font-family: 'Open Sans', sans-serif;
+
+}
 .rgba {
   background-color: rgba(10, 10, 10, 0.5);
 }
@@ -60,6 +55,7 @@ input {
 font-family: 'Anybody', cursive;
 font-family: 'Changa', sans-serif;
 font-family: 'Dancing Script', cursive;
+font-family: 'Fjalla One', sans-serif;
 font-family: 'Grape Nuts', cursive;
 font-family: 'Inter', sans-serif;
 font-family: 'Lato', sans-serif;
@@ -67,13 +63,16 @@ font-family: 'Libre Baskerville', serif;
 font-family: 'Lobster', cursive;
 font-family: 'Merriweather', serif;
 font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
 font-family: 'Permanent Marker', cursive;
 font-family: 'Poppins', sans-serif;
 font-family: 'Prompt', sans-serif;
+font-family: 'Ranga', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Rubik Bubbles', cursive;
 font-family: 'Send Flowers', cursive;
 font-family: 'Source Sans Pro', sans-serif;
 font-family: 'Tajawal', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 font-family: 'Vazirmatn', sans-serif;*/
